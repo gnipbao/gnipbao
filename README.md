@@ -161,16 +161,15 @@ Markdown syntax handbook for structured writing and documentation.
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gnipbao&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnipbao&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnipbao&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gnipbao&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gnipbao&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnipbao/gnipbao/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gnipbao/gnipbao/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gnipbao/gnipbao/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
