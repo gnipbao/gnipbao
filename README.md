@@ -95,7 +95,28 @@ Building pipelines for:
 <tr>
 <td width="50%">
 
-### 🎬 codex-whiteboard-video-skill
+### 🎨 [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)
+
+Agent skill that converts story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).
+
+**Focus:** Storytelling · Hand-drawn Animation · Video Skill
+
+</td>
+<td width="50%">
+
+### ☯️ [dao-skill](https://github.com/gnipbao/dao-skill)
+
+道生万物 — generate runnable, verifiable, and evolvable Agent Skills from chaotic requirements.
+
+**Focus:** Skill Generation · Meta-Skill · Agents
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎬 [codex-whiteboard-video-skill](https://github.com/gnipbao/codex-whiteboard-video-skill)
 
 A Codex-oriented skill package for generating whiteboard-style video workflows.
 
@@ -104,53 +125,32 @@ A Codex-oriented skill package for generating whiteboard-style video workflows.
 </td>
 <td width="50%">
 
-### 🧠 content-to-skill
+### 📊 [knowledge-cat-ppt-skill](https://github.com/gnipbao/knowledge-cat-ppt-skill)
+
+Story-first Agent Skill for creating, routing, and QA-checking PPT / HTML / image-first decks.
+
+**Focus:** Presentation · Storytelling · Visual Systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 [content-to-skill](https://github.com/gnipbao/content-to-skill)
 
 Convert source material into executable Agent Skill packages.
 
 **Focus:** Knowledge Extraction · Skill Engineering · Agents
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
-### 📊 knowledge-cat-ppt-skill
+### 🖼️ [flat-poster-op](https://github.com/gnipbao/flat-poster-op)
 
-Story-first Agent Skill for creating and QA-checking PPT / HTML / image-first decks.
+Evidence-backed flat-poster replication workflow for Codex.
 
-**Focus:** Presentation · Storytelling · Visual Systems
-
-</td>
-<td width="50%">
-
-### ⚙️ whiteboard-video-engine
-
-A Python-based engine for whiteboard video production.
-
-**Focus:** Rendering · Automation · Video Pipeline
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📝 iblog
-
-Issue-based blog system for notes, articles, learning records, and knowledge output.
-
-**Focus:** Writing · Notes · Knowledge Base
-
-</td>
-<td width="50%">
-
-### 📚 markdown-handbook
-
-Markdown syntax handbook for structured writing and documentation.
-
-**Focus:** Docs · Markdown · Writing System
+**Focus:** Poster Design · Evidence Workflow · Codex
 
 </td>
 </tr>
